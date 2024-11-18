@@ -1,0 +1,20 @@
+name: scrape-repository-dry-run
+
+on: pull_request
+
+jobs:
+  scrape-repository-dry-run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "16"
+          cache: "npm"
+      - run: npm ci
+      - run: npm run start repository $(pwd)/archive/repository/$(date +'%Y')/$(date +'%Y-%m-%d')
+      - run: git status
+      - uses: actions/upload-artifact@v4
+        with:
+          name: screenshots
+          path: "./debug/*.png"

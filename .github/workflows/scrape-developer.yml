@@ -1,0 +1,50 @@
+name: scrape-developer
+
+on:
+  push:
+    paths-ignore:
+      - "archive/**"
+    branches:
+      - master
+  schedule:
+    - cron: "10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape-developer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check if archive directory for today exists
+        id: check_today_archive_directory
+        run: |
+          today_dir="archive/developer/$(date +'%Y')/$(date +'%Y-%m-%d')"
+          if [ -d "$today_dir" ]; then
+            echo "should_scrape_today=false" >> $GITHUB_ENV
+          else
+            echo "should_scrape_today=true" >> $GITHUB_ENV
+          fi
+      - uses: actions/setup-node@v4
+        if: env.should_scrape_today == 'true'
+        with:
+          node-version: "16"
+          cache: "npm"
+      - run: npm ci
+        if: env.should_scrape_today == 'true'
+      - run: npm run start developer $(pwd)/archive/developer/$(date +'%Y')/$(date +'%Y-%m-%d')
+        if: env.should_scrape_today == 'true'
+      - run: git status
+        if: env.should_scrape_today == 'true'
+      - name: Commit and push changes
+        if: env.should_scrape_today == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add archive
+          git commit -m "chore: update developer archive $(date +'%Y-%m-%d')"
+          git push origin master
+      - uses: actions/upload-artifact@v4
+        if: env.should_scrape_today == 'true'
+        with:
+          name: screenshots
+          path: "./debug/*.png"
