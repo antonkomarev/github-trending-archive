@@ -75,7 +75,7 @@ The main implementation of this project involves the following steps:
 
 #### Why there are no weekly or monthly trends in repository?
 
-I think that having daily trends we may compute weekly/monthly trends by this data ourselves. 
+I think that having daily trends we may compute weekly/monthly trends ourselves. 
 
 #### Why there is no meta information like stars count or repository description in the archive.
 
