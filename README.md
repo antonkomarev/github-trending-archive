@@ -3,7 +3,7 @@
 ## Introduction
 
 This project aims to track and daily archive historical GitHub trending repositories & developers
-by most popular programming languages and markup languages. As GitHub's trending list is constantly
+by most popular programming and markup languages. As GitHub's trending list is constantly
 changing and GitHub does not provide API to get this information retrospectively,
 this repository helps in maintaining a historical archive using GitHub Actions.
 
