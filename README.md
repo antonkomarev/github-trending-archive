@@ -77,7 +77,7 @@ The main implementation of this project involves the following steps:
 
 I think that having daily trends we may compute weekly/monthly trends ourselves. 
 
-#### Why there is no meta information like stars count or repository description in the archive.
+#### Why there is no meta information like stars count or repository description in the archive?
 
 I've tried to make this archive simple and as small as possible.
 All related information may be fetched using GitHub API.
