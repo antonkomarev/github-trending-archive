@@ -105,7 +105,7 @@ I was inspired by [other project](https://github.com/Leko/github-trending-archiv
 
 ## 🌟 Stargazers over time
 
-[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/R_kgDONRMOoA.svg)](https://yhype.me?utm_source=github&utm_medium=antonkomarev-github-trending-archive&utm_content=chart-repository-star-cumulative)
+[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/890441376.svg)](https://yhype.me?utm_source=github&utm_medium=antonkomarev-github-trending-archive&utm_content=chart-repository-star-cumulative)
 
 ## About CyberCog
 
