@@ -1,0 +1,1 @@
+{"date":"2024-12-13","language":"erlang","list":["erlang/otp","proper-testing/proper","rabbitmq/rabbitmq-delayed-message-exchange","erlang-lager/lager","ninenines/gun","ninenines/ranch","mochi/mochiweb","tomas-abrahamsson/gpb","ninenines/cowlib","apache/couchdb","couchbase/couchdb","for-GET/jesse","benoitc/hackney","eproxus/meck","ninenines/cowboy","potatosalad/erlang-jose"]}
