@@ -1,0 +1,1 @@
+{"date":"2025-01-02","language":"erlang","list":["erlang/otp","proper-testing/proper","dnsimple/erldns","epgsql/epgsql","ninenines/ranch","erlydtl/erlydtl","rabbitmq/rabbitmq-delayed-message-exchange","erlang/rebar3","ninenines/cowboy","apache/couchdb","emqx/emqtt","dgiot/dgiot","processone/ejabberd","emqx/emqx","potatosalad/erlang-jose","ninenines/cowlib"]}
