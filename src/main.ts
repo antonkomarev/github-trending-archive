@@ -61,7 +61,9 @@ async function main() {
 }
 
 async function processDeveloperArchive() {
-    const browser = await puppeteer.launch()
+    const browser = await puppeteer.launch({
+      args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    })
     try {
         const limiter = new Bottleneck({
             maxConcurrent: CONCURRENCY,
@@ -120,7 +122,9 @@ async function persistDeveloper(
 }
 
 async function processRepositoryArchive() {
-    const browser = await puppeteer.launch()
+    const browser = await puppeteer.launch({
+      args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    })
     try {
         const limiter = new Bottleneck({
             maxConcurrent: CONCURRENCY,
