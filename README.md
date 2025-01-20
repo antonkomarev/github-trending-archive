@@ -7,6 +7,8 @@ by most popular programming and markup languages. As GitHub's trending list is c
 changing and GitHub does not provide API to get this information retrospectively,
 this repository helps in maintaining a historical archive using GitHub Actions.
 
+UI for this repository could be found in [Ÿ Trend](https://yhype.me/trend/repositories) part of free Ÿ HŸPE service.
+
 ## Another one archive
 
 There are many GitHub Trending archives already, but I've decided to make my own.
