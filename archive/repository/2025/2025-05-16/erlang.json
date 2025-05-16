@@ -1,0 +1,1 @@
+{"date":"2025-05-16","language":"erlang","list":["epgsql/epgsql","kivra/restclient","rabbitmq/rabbitmq-delayed-message-exchange","emqx/emqx","erlydtl/erlydtl","apache/couchdb","nomasystems/erf","ninenines/ranch","erlsci/iso8601","couchbase/couchdb","erlang/rebar3","erlware/relx","processone/ejabberd","aws-beam/aws-erlang","ninenines/gun","erlang-ls/erlang_ls"]}
