@@ -1,0 +1,1 @@
+{"date":"2025-06-05","language":"erlang","list":["mochi/mochiweb","epgsql/epgsql","erlang/otp","hexpm/hex_core","kivra/restclient","ninenines/cowboy","eproxus/meck","emqx/emqx","WhatsApp/erlfmt","ninenines/gun","rabbitmq/rabbitmq-delayed-message-exchange","uwiger/gproc","rustyio/sync","erlang-lager/lager","talentdeficit/jsx","erlware/relx"]}
