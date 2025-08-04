@@ -1,0 +1,1 @@
+{"date":"2025-08-04","language":"hcl","list":["terraform-aws-modules/terraform-aws-eks","cloudposse/terraform-aws-elasticache-memcached","terraform-google-modules/terraform-google-kms","cloudposse/terraform-aws-dynamic-subnets","cloudposse/terraform-aws-backup","cloudposse/terraform-aws-efs"]}
