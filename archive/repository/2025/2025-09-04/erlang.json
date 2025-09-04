@@ -1,0 +1,1 @@
+{"date":"2025-09-04","language":"erlang","list":["erlang/otp","atomvm/AtomVM","mochi/mochiweb","processone/ejabberd","emqx/emqx","rabbitmq/rabbitmq-delayed-message-exchange","eproxus/meck","proper-testing/proper","kivra/oauth2_client","rustyio/sync","ninenines/gun","apache/couchdb","blt/port_compiler","erlang/rebar3","erlang-lager/lager","uwiger/gproc","benoitc/hackney"]}
