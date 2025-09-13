@@ -1,0 +1,1 @@
+{"date":"2025-09-13","language":"erlang","list":["erlang/otp","emqx/emqx","eproxus/meck","rabbitmq/rabbitmq-delayed-message-exchange","emqx/emqtt","erlydtl/erlydtl","blt/port_compiler","proper-testing/proper","jcomellas/getopt","potatosalad/erlang-jose","kivra/oauth2_client","apache/couchdb","uwiger/gproc","ninenines/cowboy","rustyio/sync","ninenines/gun","ninenines/cowlib"]}
