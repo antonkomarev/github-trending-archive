@@ -1,0 +1,1 @@
+{"date":"2026-01-08","language":"erlang","list":["emqx/emqx","erlang/otp","erlang-lager/lager","rabbitmq/rabbitmq-delayed-message-exchange","proper-testing/proper","apache/couchdb","msgpack/msgpack-erlang","processone/ejabberd","devinus/poolboy","eproxus/meck","erlang/rebar3","blt/port_compiler"]}
