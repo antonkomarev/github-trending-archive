@@ -1,0 +1,1 @@
+{"date":"2026-01-10","language":"erlang","list":["emqx/emqx","blt/port_compiler","erlang/otp","proper-testing/proper","ninenines/gun","ninenines/cowboy","msgpack/msgpack-erlang","eproxus/meck","rabbitmq/rabbitmq-delayed-message-exchange","WhatsApp/erlfmt","mochi/mochiweb","apache/couchdb","tomas-abrahamsson/gpb","processone/ejabberd","kafka4beam/brod"]}
