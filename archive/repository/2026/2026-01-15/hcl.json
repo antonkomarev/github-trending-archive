@@ -1,0 +1,1 @@
+{"date":"2026-01-15","language":"hcl","list":["terraform-aws-modules/terraform-aws-eks","GoogleCloudPlatform/cloud-foundation-fabric","terraform-aws-modules/terraform-aws-vpc","semgrep/semgrep-rules","terraform-aws-modules/terraform-aws-lambda","aws-ia/terraform-aws-eks-blueprints","antonputra/tutorials","cloudposse/terraform-aws-ecs-container-definition"]}
