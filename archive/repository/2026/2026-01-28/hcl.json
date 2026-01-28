@@ -1,0 +1,1 @@
+{"date":"2026-01-28","language":"hcl","list":["terraform-aws-modules/terraform-aws-lambda","terraform-aws-modules/terraform-aws-vpc","GoogleCloudPlatform/cloud-foundation-fabric","terraform-aws-modules/terraform-aws-eks","terraform-google-modules/terraform-google-gcloud","cloudposse/terraform-aws-ecs-container-definition","cloudposse/terraform-aws-ecs-alb-service-task"]}
