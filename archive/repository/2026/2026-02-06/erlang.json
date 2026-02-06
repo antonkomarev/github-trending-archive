@@ -1,0 +1,1 @@
+{"date":"2026-02-06","language":"erlang","list":["emqx/emqx","ninenines/cowboy","rabbitmq/rabbitmq-delayed-message-exchange","devinus/poolboy","ninenines/ranch","kivra/restclient","ninenines/cowlib","uwiger/gproc","kivra/oauth2_client","ferd/recon","mochi/mochiweb","erlang-lager/lager","erlang/otp","apache/couchdb","processone/ejabberd","couchbase/couchdb"]}
