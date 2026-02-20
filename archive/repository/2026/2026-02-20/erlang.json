@@ -1,0 +1,1 @@
+{"date":"2026-02-20","language":"erlang","list":["erlang/rebar3","seriyps/mtproto_proxy","proper-testing/proper","mochi/mochiweb","ninenines/cowlib","rabbitmq/rabbitmq-delayed-message-exchange","blt/port_compiler","vernemq/vernemq","emqx/emqx","WhatsApp/erlfmt","ninenines/cowboy","eproxus/meck","potatosalad/erlang-jose","apache/couchdb","msgpack/msgpack-erlang","erlang/otp"]}
