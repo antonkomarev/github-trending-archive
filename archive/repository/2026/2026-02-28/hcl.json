@@ -1,0 +1,1 @@
+{"date":"2026-02-28","language":"hcl","list":["terraform-aws-modules/terraform-aws-eks","GoogleCloudPlatform/cloud-foundation-fabric","terraform-aws-modules/terraform-aws-s3-bucket","terraform-google-modules/terraform-google-kubernetes-engine","terraform-aws-modules/terraform-aws-ecs","terraform-aws-modules/terraform-aws-vpc","cloudposse/terraform-aws-ecs-container-definition"]}
