@@ -1,0 +1,1 @@
+{"date":"2026-03-11","language":"erlang","list":["emqx/emqx","proper-testing/proper","hexpm/hex_core","ninenines/ranch","ninenines/cowboy","rabbitmq/rabbitmq-delayed-message-exchange","processone/ejabberd","apache/couchdb","erlang/rebar3","ninenines/gun","eproxus/meck","potatosalad/erlang-jose","ninenines/cowlib"]}
