@@ -1,0 +1,1 @@
+{"date":"2026-03-21","language":"hcl","list":["terraform-aws-modules/terraform-aws-eks","semgrep/semgrep-rules","terraform-aws-modules/terraform-aws-s3-bucket","terraform-aws-modules/terraform-aws-vpc","terraform-google-modules/terraform-google-kubernetes-engine","cloudposse/terraform-aws-ecs-container-definition","cashapp/hermit-packages","DataDog/serverless-sample-app"]}
