@@ -1,0 +1,1 @@
+{"date":"2026-03-25","language":"hcl","list":["terraform-aws-modules/terraform-aws-s3-bucket","aws-ia/terraform-aws-control_tower_account_factory","semgrep/semgrep-rules","terraform-aws-modules/terraform-aws-eks","terraform-google-modules/terraform-google-kubernetes-engine","kubernetes/k8s.io","DataDog/serverless-sample-app"]}
