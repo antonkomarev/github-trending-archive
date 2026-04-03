@@ -1,0 +1,1 @@
+{"date":"2026-04-03","language":"hcl","list":["terraform-aws-modules/terraform-aws-s3-bucket","terraform-aws-modules/terraform-aws-eks","DataDog/serverless-sample-app","cloudposse/terraform-datadog-platform","Azure/terraform-azurerm-avm-res-storage-storageaccount","cloudposse/terraform-aws-ecs-container-definition"]}
