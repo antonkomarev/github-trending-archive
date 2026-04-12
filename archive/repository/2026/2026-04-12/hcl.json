@@ -1,0 +1,1 @@
+{"date":"2026-04-12","language":"hcl","list":["terraform-aws-modules/terraform-aws-vpc","GoogleCloudPlatform/cloud-foundation-fabric","terraform-aws-modules/terraform-aws-eks","DataDog/serverless-sample-app","terraform-aws-modules/terraform-aws-s3-bucket","terraform-aws-modules/terraform-aws-dynamodb-table","terraform-google-modules/terraform-google-vpn"]}
