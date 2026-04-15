@@ -1,0 +1,1 @@
+{"date":"2026-04-15","language":"hcl","list":["terraform-aws-modules/terraform-aws-eks","terraform-aws-modules/terraform-aws-vpc","GoogleCloudPlatform/cloud-foundation-fabric","terraform-google-modules/terraform-google-service-accounts","DataDog/serverless-sample-app","terraform-google-modules/terraform-google-gcloud","cloudposse/terraform-yaml-config"]}
