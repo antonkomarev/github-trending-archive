@@ -1,0 +1,1 @@
+{"date":"2026-04-19","language":"hcl","list":["terraform-aws-modules/terraform-aws-ecs","terraform-aws-modules/terraform-aws-eks","chainguard-images/images","DataDog/serverless-sample-app","cloudposse/terraform-aws-ecs-container-definition"]}
