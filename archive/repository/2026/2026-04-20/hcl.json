@@ -1,0 +1,1 @@
+{"date":"2026-04-20","language":"hcl","list":["DataDog/serverless-sample-app","cloudposse/terraform-aws-tfstate-backend","chainguard-images/images","cloudposse/terraform-aws-cloudtrail-s3-bucket","cloudposse/terraform-aws-efs","cloudposse/terraform-aws-dynamic-subnets"]}
