@@ -1,0 +1,1 @@
+{"date":"2026-04-25","language":"hcl","list":["terraform-aws-modules/terraform-aws-eks","terraform-aws-modules/terraform-aws-lambda","terraform-aws-modules/terraform-aws-vpc","terraform-google-modules/terraform-google-kubernetes-engine","DataDog/serverless-sample-app","Azure/terraform-azure-modules","cloudposse/terraform-aws-ecs-container-definition"]}
