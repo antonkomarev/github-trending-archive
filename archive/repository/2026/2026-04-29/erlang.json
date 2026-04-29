@@ -1,0 +1,1 @@
+{"date":"2026-04-29","language":"erlang","list":["emqx/emqx","rabbitmq/rabbitmq-delayed-message-exchange","ninenines/cowlib","erlang/otp","erlang-lager/lager","blt/port_compiler","kivra/oauth2_client","kivra/restclient","mochi/mochiweb","processone/ejabberd","apache/couchdb","potatosalad/erlang-jose","erlang/rebar3","tomas-abrahamsson/gpb","ferd/recon"]}
