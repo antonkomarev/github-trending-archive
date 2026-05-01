@@ -1,0 +1,1 @@
+{"date":"2026-05-01","language":"hcl","list":["terraform-aws-modules/terraform-aws-eks","terraform-aws-modules/terraform-aws-vpc","terraform-aws-modules/terraform-aws-lambda","semgrep/semgrep-rules","terraform-aws-modules/terraform-aws-security-group","terraform-google-modules/terraform-google-vm"]}
