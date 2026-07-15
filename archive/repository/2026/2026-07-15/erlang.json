@@ -1,0 +1,1 @@
+{"date":"2026-07-15","language":"erlang","list":["emqx/emqx","erlang/rebar3","ninenines/cowboy","ninenines/gun","ninenines/cowlib","ninenines/ranch","proper-testing/proper","blt/port_compiler","WhatsApp/erlfmt","eproxus/meck","benoitc/hackney"]}
